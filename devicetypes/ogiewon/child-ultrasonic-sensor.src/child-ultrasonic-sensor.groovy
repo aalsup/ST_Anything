@@ -22,7 +22,7 @@
  * 
  */
 metadata {
-	definition (name: "Child Ultrasonic Sensor", namespace: "ogiewon", author: "Andrew Alsup", mnmn: "SmartThingsCommunity", vid: "c9b3ec68-b299-3513-96b2-497d1f7b8e8d") {
+	definition (name: "Child Ultrasonic Sensor", namespace: "ogiewon", author: "Daniel Ogorchock", mnmn: "SmartThingsCommunity", vid: "c9b3ec68-b299-3513-96b2-497d1f7b8e8d") {
 		capability "Sensor"
         capability "Refresh"
         capability "Water Sensor"
