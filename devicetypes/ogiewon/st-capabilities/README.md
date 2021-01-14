@@ -2,6 +2,7 @@
 
 The new ST app utilizes a 4-part topology to construct a device's UI.
 
+```
   +-----+    
   | DTH |
   +-----+    
@@ -16,6 +17,7 @@ The new ST app utilizes a 4-part topology to construct a device's UI.
                   |    +-------------+     +---------------+
                   |
                   ...
+```
 
 ## Capability
 
